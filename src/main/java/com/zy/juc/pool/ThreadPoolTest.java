@@ -18,7 +18,7 @@ public class ThreadPoolTest {
                     6,
                     // 最大线程数
                     12,
-                    // 空闲线程存活时间
+                    // 空闲线程存活时间 (核心线程以外的线程)
                     60,
                     // 空闲线程存活时间参数的时间单位
                     TimeUnit.MINUTES,
