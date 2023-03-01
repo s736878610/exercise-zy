@@ -3,6 +3,7 @@ package com.zy;
 /**
  * SumOfFactorial
  * <p>
+ * 将1~N的阶乘相加
  * 1!+2!+3!+4!...+N!
  *
  * @author zhongyuan
