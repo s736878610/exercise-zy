@@ -24,4 +24,9 @@ public class Constants {
 
     public static final int TEN = 10;
 
+    /**
+     * 分隔符
+     */
+    public static final String SEPARATOR = "================================================================";
+
 }
